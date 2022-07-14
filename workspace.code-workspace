@@ -1,0 +1,16 @@
+{
+	"folders": [
+		{
+			"path": "controle-animais-ms"
+		},
+		{
+			"path": "controle-pessoas-ms"
+		},
+		{
+			"path": "eureka-service"
+		},
+		{
+			"path": "zuul-server"
+		}
+	]
+}
